@@ -1,0 +1,1 @@
+include ':helloworldapplication', ':textview', ':edittext', ':button', ':testservice', ':jdom-2.0.6'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fighting.iml" filepath="$PROJECT_DIR$/Fighting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/button/button.iml" filepath="$PROJECT_DIR$/button/button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edittext/edittext.iml" filepath="$PROJECT_DIR$/edittext/edittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworldapplication/helloworldapplication.iml" filepath="$PROJECT_DIR$/helloworldapplication/helloworldapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdom-2.0.6/jdom-2.0.6.iml" filepath="$PROJECT_DIR$/jdom-2.0.6/jdom-2.0.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textview/textview.iml" filepath="$PROJECT_DIR$/textview/textview.iml" />
+    </modules>
+  </component>
+</project>
